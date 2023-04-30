@@ -1,0 +1,74 @@
+.bg-container-mainpage{
+    background-image:url("https://www.gousa.study/images/masters-in-biomedical-imaging-usa.jpg");
+    height:100vh;
+    background-size:cover;
+
+}
+
+.heading-mainpage{
+    font-family:"Arial";
+    color:maroon;
+    padding:30px;
+    text-align:center;
+    
+}
+
+.mainpage-cards-image{
+    height:100px;
+    width:100px;
+    text-align: bottom;
+}
+
+.cards-heading-mainpage{
+    font-family:"bree serif";
+    font-style:italic;
+    color:black;
+    
+   
+}
+.cards-paragraph-mainpage{
+    font-family:"fantasy";
+    color:darkslateblue;
+    margin:10px;
+}
+
+.card-1-mainpage{
+    background-color:aliceblue;
+    margin:50px;
+    padding:30px;
+    border-radius:10px;
+    
+
+}
+
+.card-work{
+    margin:130px;
+}
+
+.bg-container-EmgPage{
+    background-image:url("https://neurotestinggroup.com/wp-content/uploads/2019/04/emg.jpg");
+    background-size:cover;
+    height:40vh;
+
+}
+
+.emg-mage-work{
+    height:540px;
+    width: 780px;
+}
+
+.emg-button-work{
+    margin:10px
+    
+}
+.emg-button-work1{
+    text-align:center
+}
+
+.bg-container-EmgPage-2{
+
+    background-image:url("https://neurotestinggroup.com/wp-content/uploads/2019/04/emg.jpg");
+    background-size:cover;
+    height:40vh;
+
+}
